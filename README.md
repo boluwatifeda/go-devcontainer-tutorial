@@ -1,0 +1,1 @@
+Link to Go tutorial followed [here](https://miguelaa123.github.io/comp423-course-notes/tutorials/go-setup/).
